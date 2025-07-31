@@ -1,0 +1,2 @@
+GET http://localhost:8080/user-api/v1/additional-info?countries=USA,CANADA
+Content-Type: application/json
